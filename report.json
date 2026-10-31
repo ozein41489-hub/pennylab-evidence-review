@@ -1,0 +1,58 @@
+{
+  "assessment": "PennyLab Research & Evidence Verification v1",
+  "classification": "Internal assistant-authored synthetic test, not official pact0 or third-party certification",
+  "score": 100,
+  "possible": 100,
+  "tests": [
+    {
+      "name": "verbatim supporting evidence",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "explicit refutation",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "conflicting evidence retained",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "missing source exclusion",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "fabricated quote exclusion",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "future-dated source exclusion",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "as-of boundary inclusion",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "duplicate source rejection",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "invalid date rejection",
+      "pass": true,
+      "points": 10
+    },
+    {
+      "name": "multi-claim provenance",
+      "pass": true,
+      "points": 10
+    }
+  ]
+}
